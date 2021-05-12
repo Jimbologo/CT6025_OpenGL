@@ -1,0 +1,10 @@
+^D:\GAMEDEV\GITPUSHING\CT6025-GRAPHICS-PROGRAMMING-ASSESSMENT-JIMBOLOGO\DEPS\ASSIMP\CMAKEFILES\08807700C3DAC7F392F1745E21EA3C17\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GameDev/GitPushing/ct6025-graphics-programming-assessment-Jimbologo/deps/assimp -BD:/GameDev/GitPushing/ct6025-graphics-programming-assessment-Jimbologo/deps/assimp --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GameDev/GitPushing/ct6025-graphics-programming-assessment-Jimbologo/deps/assimp/Assimp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

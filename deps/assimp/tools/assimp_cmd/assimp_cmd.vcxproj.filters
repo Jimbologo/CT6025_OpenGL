@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\tools\assimp_cmd\CompareDump.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\tools\assimp_cmd\ImageExtractor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\tools\assimp_cmd\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\tools\assimp_cmd\WriteDumb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\tools\assimp_cmd\Info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\tools\assimp_cmd\Export.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\tools\assimp_cmd\Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\tools\assimp_cmd\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\tools\assimp_cmd\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\tools\assimp_cmd\assimp_cmd.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E1CAB760-A827-3DFD-8F76-04D0E63A65AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2CB6E574-717D-3A74-A21A-9FBF11538361}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

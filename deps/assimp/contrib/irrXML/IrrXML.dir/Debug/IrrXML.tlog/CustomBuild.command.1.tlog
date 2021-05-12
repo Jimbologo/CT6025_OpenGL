@@ -1,0 +1,10 @@
+^D:\GAMEDEV\GITPUSHING\CT6025-GRAPHICS-PROGRAMMING-ASSESSMENT-JIMBOLOGO\DEPS\ASSIMP\CONTRIB\IRRXML\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GameDev/GitPushing/ct6025-graphics-programming-assessment-Jimbologo/deps/assimp -BD:/GameDev/GitPushing/ct6025-graphics-programming-assessment-Jimbologo/deps/assimp --check-stamp-file D:/GameDev/GitPushing/ct6025-graphics-programming-assessment-Jimbologo/deps/assimp/contrib/irrXML/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

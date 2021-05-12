@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/GameDev/GitPushing/ct6025-graphics-programming-assessment-Jimbologo/deps/assimp/tools/assimp_cmd/CMakeLists.txt
+  CompareDump.cpp
+  ImageExtractor.cpp
+  Main.cpp
+  WriteDumb.cpp
+  Info.cpp
+  Export.cpp
+  assimp_cmd.vcxproj -> D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\bin\Debug\assimpd.exe

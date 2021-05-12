@@ -1,0 +1,1859 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\CApi\CInterfaceIOWrapper.cpp">
+      <Filter>CApi</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\ZipArchiveIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\SplitByBoneCountProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\scene.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\CreateAnimMesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\simd.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\CApi\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\EmbedTexturesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\DropFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ScaleProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\GenBoundingBoxesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Material\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\STEPParser\STEPFileReader.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\STEPParser\STEPFileEncoding.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\AMF\AMFImporter.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\AMF\AMFImporter_Geometry.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\AMF\AMFImporter_Material.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\AMF\AMFImporter_Postprocess.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3DS\3DSConverter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3DS\3DSLoader.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\AC\ACLoader.cpp">
+      <Filter>AC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\ASE\ASELoader.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\ASE\ASEParser.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assbin\AssbinLoader.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\B3D\B3DImporter.cpp">
+      <Filter>B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\BVH\BVHLoader.cpp">
+      <Filter>BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Collada\ColladaLoader.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Collada\ColladaParser.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\DXF\DXFLoader.cpp">
+      <Filter>DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\CSM\CSMLoader.cpp">
+      <Filter>CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\HMP\HMPLoader.cpp">
+      <Filter>HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Irr\IRRMeshLoader.cpp">
+      <Filter>IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Irr\IRRShared.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Irr\IRRLoader.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\LWO\LWOAnimation.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\LWO\LWOBLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\LWO\LWOLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\LWO\LWOMaterial.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\LWS\LWSLoader.cpp">
+      <Filter>LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD2\MD2Loader.cpp">
+      <Filter>MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD3\MD3Loader.cpp">
+      <Filter>MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD5\MD5Loader.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD5\MD5Parser.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MDC\MDCLoader.cpp">
+      <Filter>MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MDL\MDLLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MDL\MDLMaterialLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\NFF\NFFLoader.cpp">
+      <Filter>NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\NDO\NDOLoader.cpp">
+      <Filter>NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\OFF\OFFLoader.cpp">
+      <Filter>OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Obj\ObjFileImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Obj\ObjFileMtlImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Obj\ObjFileParser.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ogre\OgreImporter.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ogre\OgreStructs.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ogre\OgreBinarySerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ogre\OgreXmlSerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ogre\OgreMaterial.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\OpenGEX\OpenGEXImporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ply\PlyLoader.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ply\PlyParser.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MS3D\MS3DLoader.cpp">
+      <Filter>MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\COB\COBLoader.cpp">
+      <Filter>COB</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderLoader.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderDNA.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderScene.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderModifier.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderBMesh.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderTessellator.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderCustomData.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCLoader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCReaderGen1_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCReaderGen2_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCUtil.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCGeometry.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCMaterial.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCProfile.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCCurve.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCBoolean.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCOpenings.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\XGL\XGLLoader.cpp">
+      <Filter>XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXImporter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXParser.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXConverter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXDocument.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXProperties.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXMeshGeometry.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXMaterial.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXModel.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXAnimation.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXNodeAttribute.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXDeformer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXBinaryTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXDocumentUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Q3D\Q3DLoader.cpp">
+      <Filter>Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Q3BSP\Q3BSPFileParser.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Q3BSP\Q3BSPFileImporter.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Raw\RawLoader.cpp">
+      <Filter>RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\SIB\SIBImporter.cpp">
+      <Filter>SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\SMD\SMDLoader.cpp">
+      <Filter>SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\STL\STLLoader.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Terragen\TerragenLoader.cpp">
+      <Filter>TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Unreal\UnrealLoader.cpp">
+      <Filter>3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X\XFileImporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X\XFileParser.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Geometry2D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Geometry3D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Group.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Light.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Metadata.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Networking.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Postprocess.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Rendering.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Shape.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Texturing.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\FIReader.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DVocabulary.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF\glTFCommon.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF\glTFImporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF2\glTF2Importer.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3MF\D3MFImporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3MF\D3MFOpcPackage.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MMD\MMDImporter.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MMD\MMDPmxParser.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\StepFile\StepFileImporter.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\StepFile\StepFileGen1.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\StepFile\StepFileGen2.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\StepFile\StepFileGen3.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3DS\3DSExporter.cpp">
+      <Filter>3DS_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assbin\AssbinExporter.cpp">
+      <Filter>ASSBIN_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assxml\AssxmlExporter.cpp">
+      <Filter>ASSXML_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Collada\ColladaExporter.cpp">
+      <Filter>COLLADA_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Obj\ObjExporter.cpp">
+      <Filter>OBJ_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\OpenGEX\OpenGEXExporter.cpp">
+      <Filter>OPENGEX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ply\PlyExporter.cpp">
+      <Filter>PLY_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXExporter.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXExportNode.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXExportProperty.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\STL\STLExporter.cpp">
+      <Filter>STL_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X\XFileExporter.cpp">
+      <Filter>X_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DExporter.cpp">
+      <Filter>X3D_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF\glTFExporter.cpp">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF2\glTF2Exporter.cpp">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3MF\D3MFExporter.cpp">
+      <Filter>3MF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assjson\cencode.c">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assjson\json_exporter.cpp">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assjson\mesh_splitter.cpp">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Step\StepExporter.cpp">
+      <Filter>STEP_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\unzip\ioapi.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\unzip\unzip.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\clipper\clipper.cpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\code\Value.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\code\OpenDDLStream.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcArithmeticCodec.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcDynamicVectorDecoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcDynamicVectorEncoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcTools.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcTriangleFans.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\zip\src\zip.c">
+      <Filter>ziplib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\CApi\CInterfaceIOWrapper.h">
+      <Filter>CApi</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\PolyTools.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\SplitByBoneCountProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\simd.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\DefaultLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\LogStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Logger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\NullLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Common\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\BlobIOSystem.h">
+      <Filter>Exporter</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\EmbedTexturesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\DropFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\ScaleProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\PostProcessing\GenBoundingBoxesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Material\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\STEPParser\STEPFileReader.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\STEPParser\STEPFileEncoding.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\AMF\AMFImporter.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\AMF\AMFImporter_Macro.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\AMF\AMFImporter_Node.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3DS\3DSHelper.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3DS\3DSLoader.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\AC\ACLoader.h">
+      <Filter>AC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\ASE\ASELoader.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\ASE\ASEParser.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assbin\AssbinLoader.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\B3D\B3DImporter.h">
+      <Filter>B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\BVH\BVHLoader.h">
+      <Filter>BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Collada\ColladaHelper.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Collada\ColladaLoader.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Collada\ColladaParser.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\DXF\DXFLoader.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\DXF\DXFHelper.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\CSM\CSMLoader.h">
+      <Filter>CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\HMP\HMPFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\HMP\HMPLoader.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\HMP\HalfLifeFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Irr\IRRMeshLoader.h">
+      <Filter>IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Irr\IRRShared.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Irr\IRRLoader.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\LWO\LWOAnimation.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\LWO\LWOFileData.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\LWO\LWOLoader.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\LWS\LWSLoader.h">
+      <Filter>LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD2\MD2FileData.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD2\MD2Loader.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD2\MD2NormalTable.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD3\MD3FileData.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD3\MD3Loader.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD5\MD5Loader.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MD5\MD5Parser.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MDC\MDCFileData.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MDC\MDCLoader.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MDC\MDCNormalTable.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MDL\MDLDefaultColorMap.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MDL\MDLFileData.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MDL\MDLLoader.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\NFF\NFFLoader.h">
+      <Filter>NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\NDO\NDOLoader.h">
+      <Filter>NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\OFF\OFFLoader.h">
+      <Filter>OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Obj\ObjFileData.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Obj\ObjFileImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Obj\ObjFileMtlImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Obj\ObjFileParser.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Obj\ObjTools.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ogre\OgreImporter.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ogre\OgreStructs.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ogre\OgreParsingUtils.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ogre\OgreBinarySerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ogre\OgreXmlSerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\OpenGEX\OpenGEXImporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\OpenGEX\OpenGEXStructs.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ply\PlyLoader.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ply\PlyParser.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MS3D\MS3DLoader.h">
+      <Filter>MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\COB\COBLoader.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\COB\COBScene.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderLoader.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderDNA.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderDNA.inl">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderScene.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderSceneGen.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderIntermediate.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderModifier.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderBMesh.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderTessellator.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Blender\BlenderCustomData.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCLoader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCReaderGen_2x3.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\IFC\IFCUtil.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\XGL\XGLLoader.h">
+      <Filter>XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXCompileConfig.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXImporter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXParser.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXTokenizer.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXImportSettings.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXConverter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXUtil.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXDocument.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXProperties.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXMeshGeometry.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXCommon.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Q3D\Q3DLoader.h">
+      <Filter>Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Q3BSP\Q3BSPFileData.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Q3BSP\Q3BSPFileParser.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Q3BSP\Q3BSPFileImporter.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Raw\RawLoader.h">
+      <Filter>RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\SIB\SIBImporter.h">
+      <Filter>SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\SMD\SMDLoader.h">
+      <Filter>SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\STL\STLLoader.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Terragen\TerragenLoader.h">
+      <Filter>TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Unreal\UnrealLoader.h">
+      <Filter>3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X\XFileHelper.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X\XFileImporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X\XFileParser.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Macro.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DImporter_Node.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\FIReader.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF\glTFCommon.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF\glTFAsset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF\glTFAsset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF\glTFAssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF\glTFAssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF\glTFImporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF2\glTF2Asset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF2\glTF2Asset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF2\glTF2AssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF2\glTF2AssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF2\glTF2Importer.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3MF\D3MFImporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3MF\D3MFOpcPackage.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3MF\3MFXmlTags.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MMD\MMDCpp14.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MMD\MMDImporter.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MMD\MMDPmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MMD\MMDPmxParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\MMD\MMDVmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Step\STEPFile.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\StepFile\StepFileImporter.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Importer\StepFile\StepReaderGen.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3DS\3DSExporter.h">
+      <Filter>3DS_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assbin\AssbinExporter.h">
+      <Filter>ASSBIN_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assxml\AssxmlExporter.h">
+      <Filter>ASSXML_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Collada\ColladaExporter.h">
+      <Filter>COLLADA_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Obj\ObjExporter.h">
+      <Filter>OBJ_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\OpenGEX\OpenGEXExporter.h">
+      <Filter>OPENGEX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Ply\PlyExporter.h">
+      <Filter>PLY_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXExporter.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXExportNode.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\FBX\FBXExportProperty.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\STL\STLExporter.h">
+      <Filter>STL_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X\XFileExporter.h">
+      <Filter>X_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\X3D\X3DExporter.hpp">
+      <Filter>X3D_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF\glTFExporter.h">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\glTF2\glTF2Exporter.h">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\3MF\D3MFExporter.h">
+      <Filter>3MF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assjson\cencode.h">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Assjson\mesh_splitter.h">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\Step\StepExporter.h">
+      <Filter>STEP_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\irrXMLWrapper.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\unzip\crypt.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\unzip\ioapi.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\unzip\unzip.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\clipper\clipper.hpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\include\openddlparser\OpenDDLStream.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcAdjacencyInfo.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcArithmeticCodec.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcBinaryStream.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcCommon.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcDVEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcDynamicVectorDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcDynamicVectorEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcDynamicVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcFIFO.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcIndexedFaceSet.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcIndexedFaceSet.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcSC3DMCDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcSC3DMCDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcSC3DMCEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcSC3DMCEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcSC3DMCEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcTimer.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcTriangleFans.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcTriangleListDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcTriangleListDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcTriangleListEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcTriangleListEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\Open3DGC\o3dgcVector.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\zip\src\miniz.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\contrib\zip\src\zip.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\aabb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\ai_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\color4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\color4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\cfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\material.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\matrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\matrix3x3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\matrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\matrix4x4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\pbrmaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\postprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\metadata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\vector2.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\vector3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\cimport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\importerdesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Importer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\ProgressHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\IOStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\IOSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\cexport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Exporter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\DefaultIOStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\DefaultIOSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\ZipArchiveIOSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\SceneCombiner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\fast_atof.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\qnan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\BaseImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\MemoryIOWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\ParsingUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\StreamReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\StreamWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\StringComparison.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\StringUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\SGSpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\GenericProperty.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\SpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\SkeletonMeshBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\SmoothingGroups.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\SmoothingGroups.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\StandardShapes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\RemoveComments.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Subdivision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\LineSplitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\TinyFormatter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Profiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\LogAux.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\XMLTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\IOStreamBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\CreateAnimMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\MathFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Macros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Exceptional.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\ByteSwapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\code\res\assimp.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3D">
+      <UniqueIdentifier>{C567D863-88A1-303B-A8E7-453B3497F410}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS">
+      <UniqueIdentifier>{870C7A9B-EE2C-371E-BF32-062E933BE9F1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS_EXPORTER">
+      <UniqueIdentifier>{A6729D73-36CB-3989-AE5D-FBCB7841A602}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF">
+      <UniqueIdentifier>{3704FF14-4DF8-3AAA-8AD6-D98A5F628DCA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF_EXPORTER">
+      <UniqueIdentifier>{8E72ACD5-92EF-3E4A-90C5-4E1384EA91DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AC">
+      <UniqueIdentifier>{FF8708AB-58B0-38DF-B5AB-47A1582E74BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AMF">
+      <UniqueIdentifier>{290FEE8A-536F-3216-9E02-1D5D14F79660}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASE">
+      <UniqueIdentifier>{FF33EE19-22B7-3853-9789-84EEFE789D51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN">
+      <UniqueIdentifier>{98732EA3-287D-391E-B005-60C47A225BC3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN_EXPORTER">
+      <UniqueIdentifier>{C12797FB-22DC-340E-86AC-2D5009C3C5D7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSJSON_EXPORTER">
+      <UniqueIdentifier>{25A11D98-E4E5-3FB7-8AA5-2070784EEF1F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSXML_EXPORTER">
+      <UniqueIdentifier>{7F250CFE-ADA4-3984-BB75-75C848CD66BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B3D">
+      <UniqueIdentifier>{9EBC747F-117D-3E18-9AD5-702087930DD4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BLEND">
+      <UniqueIdentifier>{0C0520BF-99F8-3644-A265-168414693A1A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BVH">
+      <UniqueIdentifier>{7F273710-EBDE-37C7-877C-514D47FD1174}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CApi">
+      <UniqueIdentifier>{EEA70E84-8BBD-33C3-A60E-9E7DC0EBFD9B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COB">
+      <UniqueIdentifier>{470012E7-58A2-3C82-AD00-70078E0C2B6D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA">
+      <UniqueIdentifier>{81B34FCE-D7BE-3DFD-86E4-7EA8F9FC32A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA_EXPORTER">
+      <UniqueIdentifier>{AC08BA61-B305-31DD-A84D-024802CE1B67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM">
+      <UniqueIdentifier>{28244502-2458-3AA0-97B3-0E42148CD264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{653BD245-A967-3798-BA4C-2AB5657827E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{A81DF647-8EA1-3639-B547-942D4C6F7EB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib">
+      <UniqueIdentifier>{10E53EAE-5C49-3CE5-A4E1-FE38DCADC786}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Clipper">
+      <UniqueIdentifier>{D841D1A9-E7A6-389E-81A8-98DFF400167B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Poly2Tri">
+      <UniqueIdentifier>{50AF4654-EFD3-3E9C-A1FB-631E6C343574}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\open3dgc">
+      <UniqueIdentifier>{22AFA803-809A-3A5A-922D-2D118D942C99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\openddl_parser">
+      <UniqueIdentifier>{B0D58C4E-11F6-38EB-B107-C2AF5BAA4619}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\unzip">
+      <UniqueIdentifier>{7A1DA366-B02A-3251-BE9B-EA194A6453F2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXF">
+      <UniqueIdentifier>{7F57C8A5-7CFC-343E-8DB1-5603230F89B2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{1A62AAC8-03F1-3033-BC6A-38F113AC893A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX">
+      <UniqueIdentifier>{F73AA3B0-3F9D-36C4-961A-0D7F5F20A805}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX_EXPORTER">
+      <UniqueIdentifier>{E4AA902B-52B0-3CAB-994B-85A1AC4357F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF">
+      <UniqueIdentifier>{21229E6C-CB4A-335B-952F-CF4F99615F59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF_EXPORTER">
+      <UniqueIdentifier>{E3AE049C-1008-3DFC-9FAA-AA69ED906F4C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HMP">
+      <UniqueIdentifier>{ADC6709E-2F0F-33DC-93CE-31A694FD3FD4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E1CAB760-A827-3DFD-8F76-04D0E63A65AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFC">
+      <UniqueIdentifier>{E2EFD8BF-19B5-38FC-A7E9-19DE29A6FCD3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRR">
+      <UniqueIdentifier>{3B3DCE57-8415-3395-9B86-8438EB5009AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRRMESH">
+      <UniqueIdentifier>{9E16E95E-4321-39E9-A025-C1D3FD2F0253}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IrrXML">
+      <UniqueIdentifier>{03ED7113-A824-3E1C-B462-93E3478FB9C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWO">
+      <UniqueIdentifier>{18AB1681-A8FD-3A61-B7D4-38967A7E8BDC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWS">
+      <UniqueIdentifier>{60CF65CD-E190-36ED-A621-DB076BE39CC7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{71B0AFD9-CC31-33ED-913E-BC1D981540D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD2">
+      <UniqueIdentifier>{64658760-0272-3AE2-BF07-5CFCDA91AF58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD3">
+      <UniqueIdentifier>{9708A8A2-C037-3590-A985-6B4EFC37B00E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD5">
+      <UniqueIdentifier>{DDC51DEE-2BEA-3920-961F-4209464FACAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDC">
+      <UniqueIdentifier>{8DCC2D0E-1CE9-3DF7-9B9B-C437597F7EF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDL">
+      <UniqueIdentifier>{D69B3789-29CC-3BC1-9930-49FF0E1E524D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MMD">
+      <UniqueIdentifier>{0323757C-EFD7-349A-887A-7BA2A0478199}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MS3D">
+      <UniqueIdentifier>{864C98FC-38B7-3FFA-BE76-A5FBB0A2850B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{7DFABDBC-D794-3F83-8C8B-B0244BA58062}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NDO">
+      <UniqueIdentifier>{1CF67A00-5B3B-3701-BD50-A4E2C9538FAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFF">
+      <UniqueIdentifier>{768965E1-96D7-3657-A0AB-E91D87207136}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ">
+      <UniqueIdentifier>{3263B34E-9F62-3D4F-9E9C-415C2553D5B2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ_EXPORTER">
+      <UniqueIdentifier>{CDD70235-CEDB-361B-8A0B-8283001ECDAE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OFF">
+      <UniqueIdentifier>{C9A79265-0046-369E-B1F2-18DA93E8436F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OGRE">
+      <UniqueIdentifier>{8FD22BFD-631E-35C2-A617-AD8C883D8548}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX">
+      <UniqueIdentifier>{5DA05FEE-B6DF-3BDF-BC3A-B78495B0EB4E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX_EXPORTER">
+      <UniqueIdentifier>{7874928B-E544-3A0E-9F45-8C7345DB2946}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY">
+      <UniqueIdentifier>{7D624E1B-FB6B-3690-91F6-5C4BB003C674}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY_EXPORTER">
+      <UniqueIdentifier>{8DB00C98-719B-3529-9935-BD5A9F4BD918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{E9022D3A-6217-3B99-8518-564B7B3AC55D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3BSP">
+      <UniqueIdentifier>{2ABD7390-2E94-350B-9186-BBC6BAA17A40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3D">
+      <UniqueIdentifier>{0315B79E-3B9C-3F5F-994F-9C9312B1480B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RAW">
+      <UniqueIdentifier>{A9D4B055-94A4-391B-B24B-164877F8FA90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SIB">
+      <UniqueIdentifier>{CAF16786-4324-3C4F-85A4-A61A48CA6124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SMD">
+      <UniqueIdentifier>{26A15570-4904-3271-8A18-C0851B5A13AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEP">
+      <UniqueIdentifier>{D42FE936-87CA-3CF3-8613-AC89173622C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPParser">
+      <UniqueIdentifier>{DE99A69E-EE81-3D24-9DB7-0C1FB28AD3DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEP_EXPORTER">
+      <UniqueIdentifier>{9A3049C6-1AC9-3E90-A308-8A81CA3A3490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{A160F825-4904-3EB7-A74E-0D842BE59FFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL_EXPORTER">
+      <UniqueIdentifier>{2D553C59-1C64-3324-84A3-82F7C329D0AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2CB6E574-717D-3A74-A21A-9FBF11538361}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TERRAGEN">
+      <UniqueIdentifier>{0E6E6D3B-3017-3778-B54D-F49E79C4A9FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X">
+      <UniqueIdentifier>{9F59F3C8-BB2A-38D7-A8AA-A78E15A736C7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D">
+      <UniqueIdentifier>{82D28CD1-8F11-38FF-9A4E-CF2E941677BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D_EXPORTER">
+      <UniqueIdentifier>{EA44193C-9CEA-3194-875E-70BDA5925EC9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGL">
+      <UniqueIdentifier>{90361FBC-DB26-3542-8B9B-506842A8BB59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X_EXPORTER">
+      <UniqueIdentifier>{59781021-E269-3781-89DB-89354AF4F8CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ziplib">
+      <UniqueIdentifier>{5D9AF2EE-7883-3FBC-8A8F-904CFCDF18B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

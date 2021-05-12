@@ -1,0 +1,18 @@
+﻿  Building Custom Rule D:/GameDev/GitPushing/ct6025-graphics-programming-assessment-Jimbologo/deps/assimp/contrib/zlib/CMakeLists.txt
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  inflate.c
+  infback.c
+  inftrees.c
+  inffast.c
+  trees.c
+  uncompr.c
+  zutil.c
+     Creating library D:/GameDev/GitPushing/ct6025-graphics-programming-assessment-Jimbologo/deps/assimp/lib/Debug/zlibd.lib and object D:/GameDev/GitPushing/ct6025-graphics-programming-assessment-Jimbologo/deps/assimp/lib/Debug/zlibd.exp
+  zlib.vcxproj -> D:\GameDev\GitPushing\ct6025-graphics-programming-assessment-Jimbologo\deps\assimp\bin\Debug\zlibd.dll
