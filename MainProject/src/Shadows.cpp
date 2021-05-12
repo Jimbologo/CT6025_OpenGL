@@ -32,7 +32,7 @@ bool Shadows::onCreate()
 	//Inialise Lights
 	m_sceneDirLight = new Light(LIGHT_TYPE::DIRECTIONAL, glm::vec3(0.125, 0.125, 0.125), glm::vec3(1.0, 1.0, 1.0), glm::vec3(1.0, 1.0, 1.0), 0.4f, glm::vec4(20.f, 15.f, 0.f, 1.f));
 
-	m_scenePointLights.push_back(new Light(LIGHT_TYPE::POINT, glm::vec3(0.9, 0.125, 0.125), glm::vec3(1.0, 1.0, 1.0), glm::vec3(1.0, 1.0, 1.0), 1, glm::vec4(5.f, 0.f, 0.f, 1.f)));
+	m_scenePointLights.push_back(new Light(LIGHT_TYPE::POINT, glm::vec3(0.9, 0.125, 0.125), glm::vec3(1.0, 1.0, 1.0), glm::vec3(1.0, 1.0, 1.0), 1, glm::vec4(5.f, 5.f, 0.f, 1.f)));
 	m_sceneSpotLights.push_back(new Light(LIGHT_TYPE::SPOT, glm::vec3(0.125, 0.925, 0.125), glm::vec3(1.0, 1.0, 1.0), glm::vec3(1.0, 1.0, 1.0), 1, glm::vec4(1.f, 10.f, 0.f, 1.f)));
 
 	// create a world-space matrix for a camera
